@@ -24,7 +24,7 @@ This project implements a simplified in-memory vector database, demonstrating co
 
 1.  **Clone the repository (if you're a new user):**
     ```bash
-    git clone <your-repo-url>
+    git clone KotraHaridutt/Vector-search-engine-LSH
     cd simple_vector_db
     ```
     (If you're already in your project directory, skip cloning.)
